@@ -480,7 +480,7 @@ bottom: 0;
 .bgbuttons{
     background-color: #b1040e !important;
     box-shadow: 0 0 10px rgba(0,0,0,.1),0 0 5px rgba(0,0,0,.1) !important;
-    width: 390px !important;
+   
 }
 .bgbuttons:hover{
     background-color:#7e040b !important;
@@ -520,4 +520,7 @@ box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
 .bgbuttons3:hover{
     background-color:#7e040b !important;
+}
+.border-m-b{
+    border-right: 2px solid black;
 }
